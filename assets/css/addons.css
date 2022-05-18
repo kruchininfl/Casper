@@ -234,6 +234,11 @@ h6 {
     font-weight: 600;
     color: #151515;
 }
+.single-post .post-full-content h3 {
+    font-size: 2.2rem;
+    font-weight: 600;
+    color: #151515;
+}
 .single-post .kg-gallery-container {
     width: 100%;
 }
